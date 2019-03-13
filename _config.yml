@@ -5,25 +5,22 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: thienchau
-google_analytics: thienchau
-title: thienchau
+disqus: thaivong
+google_analytics: thaivong
+title: thaivong
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: thienchau
+      title: Thai Vong
 
-description: thienchau
+description: Thai Vong
 author:
-  name: thienchau
-  email: email@thienchau.dev
-  github: thienchau
-  twitter: thienchau
-  pinterest: thienchau
-  linkedin: duythien0110
+  name: Thai Vong
+  email: email@letitbe.dev
+  github: ThaiVg
   bio: First, solve the problem. Then, write the code
   email_md5: 0763769757ea32a51b29807bf08b6101
 
